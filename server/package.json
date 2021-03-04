@@ -1,0 +1,19 @@
+{
+    "name": "node_docker_vscode",
+    "version": "1.0.0",
+    "description": "A demo Express API for use with Docker on VSCode",
+    "main": "server.js",
+    "author": "Alpha Ogilo",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.11.18"
+    },
+    "prettier": {
+        "tabWidth": 4
+    },
+    "engines": {
+        "node": ">=14.13.0"
+    }
+}

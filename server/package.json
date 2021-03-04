@@ -1,5 +1,5 @@
 {
-    "name": "node_docker_vscode",
+    "name": "node_with_docker_vscode",
     "version": "1.0.0",
     "description": "A demo Express API for use with Docker on VSCode",
     "main": "server.js",
